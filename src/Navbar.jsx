@@ -6,7 +6,7 @@ function NavBar({ cartQuantity, openCart }) {
       <div className="logo">Start bootstrap</div>
       <ul>
         <li>
-          <a href="#">Home</a>
+        <a href="#">Home</a>
         </li>
         <li>
           <a href="#">About</a>
