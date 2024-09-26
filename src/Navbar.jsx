@@ -1,5 +1,5 @@
 import Button from "./Button";
-
+import Header from "./Header";
 function NavBar({ cartQuantity, openCart }) {
   return (
     <nav className="navbar">
